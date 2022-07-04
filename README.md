@@ -1,5 +1,5 @@
 # Diabete-Classification
-A data mining project for detecting Diabetic patients based on a databased gathered from kaggle.
+A data mining project for detecting Diabetic patients based on a dataset gathered from kaggle.
 it contains the following steps:
 - **preprocess**  
   + handle null and unknown values
